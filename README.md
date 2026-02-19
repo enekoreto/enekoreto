@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Eneko 👋
 
-<!--
-**enekoreto/enekoreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and MSc student with a background in Computer Science and Business Administration. I specialize in backend development, scalable architectures, and continuous integration. 
 
-Here are some ideas to get you started:
+Currently, I am working as a Machine Learning and AI Software Engineer, designing automated evaluation pipelines for GenAI applications, and developing back end solutions in .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** C#, Java, C/C++, Python, SQL (MySQL), Python
+* **Frameworks:** .NET Core, ASP.NET Core, Entity Framework 
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+* **Architecture:** RESTful APIs, Object-Oriented Programming (OOP), Microservices
+
+📫 **Let's connect:** [Find me on LinkedIn]((https://www.linkedin.com/in/enekoretolaza/))
