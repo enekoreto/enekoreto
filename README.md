@@ -10,4 +10,4 @@ Currently, I am working as a Machine Learning and AI Software Engineer, designin
 * **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
 * **Architecture:** RESTful APIs, Object-Oriented Programming (OOP), Microservices
 
-📫 **Let's connect:** [Find me on LinkedIn]((https://www.linkedin.com/in/enekoretolaza/))
+📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/enekoretolaza/)
